@@ -6,6 +6,8 @@ export default function HomePage() {
     <>
       <Hero />
       <Features />
+      <Cta />
     </>
   )
 }
+import Cta from '@/components/sections/home/Cta'
