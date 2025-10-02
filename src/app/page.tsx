@@ -7,7 +7,6 @@ export default function HomePage() {
       <Hero />
       <Features />
       <Cta />
-          <Hero />
     </>
   )
 }
